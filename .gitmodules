@@ -1,0 +1,12 @@
+[submodule "huffman"]
+	path = huffman
+	url = https://github.com/uyw4687/huffman.git
+[submodule "adaptive-huffman"]
+	path = adaptive-huffman
+	url = https://github.com/uyw4687/adaptive-huffman.git
+[submodule "tunstall"]
+	path = tunstall
+	url = https://github.com/uyw4687/tunstall.git
+[submodule "arithmetic"]
+	path = arithmetic
+	url = https://github.com/uyw4687/arithmetic.git
