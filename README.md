@@ -6,4 +6,4 @@ Tunstall        https://github.com/Ritwik00025/data-compression/tree
 Arithmetic      https://github.com/nayuki/Reference-arithmetic-coding  
 LZ77          https://github.com/manassra/LZ77-Compressor  
 LZW          https://github.com/joeatwork/python-lzw  
-Golomb       http://www.inference.org.uk/mackay/python/compress/golomb  
+Golomb       https://pypi.org/project/golomb-coding/
