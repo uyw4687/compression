@@ -31,5 +31,6 @@ lzw:
 	$(foreach input,$(DATA),$(PYTHON) LZW/mainlzw.py -d $(input);)
 
 golomb:
+	pip3 install golomb-coding
 	$(foreach input,$(DATA),$(PYTHON) Golomb/maingolomb.py -c $(input);)
 	$(foreach input,$(DATA),$(PYTHON) Golomb/maingolomb.py -d $(input);)
